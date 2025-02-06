@@ -1,0 +1,8 @@
+__pycache__
+config.json
+.mp/
+venv/
+*.exe
+*/__pycache__
+.env
+har_and_cookies
