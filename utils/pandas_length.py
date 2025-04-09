@@ -8,7 +8,7 @@ Created on Tue Nov 26 22:32:52 2024
 import pandas as pd
 
 # Ruta al archivo CSV
-file_path = "./result_loca_2024.csv"
+file_path = "./LOCA_QA_2020.csv"
 
 # Contador de registros
 num_registros = 0

@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("./result_loca_2020.csv", index_col=False, nrows=10)
+df = pd.read_csv("./luis2.csv", index_col=False, delimiter=',')
 
 print(df.dtypes)
 print(df.head())
